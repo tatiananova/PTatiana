@@ -82,8 +82,6 @@ article {
 	margin: 2.5%;
 }
 .peli {
-	width: 80%;
-	height: 100%;
 	position: absolute;
 	top: 30%;
 	bottom: 0;
@@ -256,6 +254,8 @@ article {
 		z-index: 10;
 	}
 	.peli{
+		width: 80%;
+		height: 190%;
 		position: absolute;
 		top:0%;
 		left: 10%;
@@ -395,7 +395,7 @@ article {
 	}
 	.peli{
 		width: 80%;
-		height: 140%;
+		height: 230%;
 		position: absolute;
 		top:5%;
 		left: 10%;
@@ -889,9 +889,9 @@ article {
 	}
 	.peli {
 		width: 80%;
-		height: 140%;
+		height: 210%;
 		position: absolute;
-		top: 15%;
+		top: 20%;
 		bottom: 0;
 		left: 5%;
 		right: 5%;
